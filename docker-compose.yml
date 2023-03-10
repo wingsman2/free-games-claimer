@@ -11,8 +11,3 @@ services:
     volumes:
       - fgc:/fgc/data
     # command: bash -c "node epic-games; node gog"
-    environment:
-      # - EMAIL=foo@bar.org
-      # - NOTIFY='tgram://...'
-volumes:
-  - fgc
