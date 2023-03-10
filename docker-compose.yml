@@ -12,4 +12,4 @@ services:
       - fgc:/fgc/data
     # command: bash -c "node epic-games; node gog"
 volumes:
-  - fgc
+  fgc:
